@@ -11,7 +11,7 @@ setwd(handl_OneDrive('Analyses/Efficiency creep simulation'))
 
 source('Git_Efficiency-creep/FuCreep_wrapper.r')
 
-# PARAMETERS SECTION PSG -------------------------------------------------------------------------
+# PARAMETERS SECTION PSG is awesome ----------------------------------------------------------------------
 #select method for calculating mnbio 
 #bio.method='simple.mean'
 bio.method='glm'
